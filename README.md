@@ -59,6 +59,10 @@ plt.legend()
 # Showing the graph
 plt.show()
 
+This is our diagram image of Pandas here sir.
+![line_chart_pandas_image_diagram](https://github.com/AuntBawHein/Pandas_functions_project_Python_about_Myanmar/assets/150255399/f3c3240a-0d63-41ff-a048-22a96eb1d841)
+
+
 These are questions and images here.
 [Questions_and_image_Pandas_function_projects.docx](https://github.com/AuntBawHein/Pandas_functions_project_Python_about_Myanmar/files/13692274/Questions_and_image_Pandas_function_projects.docx)
 
